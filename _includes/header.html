@@ -40,13 +40,13 @@
       </div>
       <div class="dropup dropdown-center">
         <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-          Year
+          All GLFrontiers Events
         </a>
 
         {% assign permalink = page.permalink | default: '/2022/overview' |  split: '/' %}
         <ul class="dropdown-menu">
           {% for year in site.all_years %}
-          <li><a class="dropdown-item" href="/{{ year }}/{{ permalink[2] }}">{{ year }}</a></li>
+          <li><a class="dropdown-item" href="/{{ year }}/{{ permalink[2] }}">NeurIPS {{ year }}</a></li>
           {% endfor %}
         </ul>
       </div>

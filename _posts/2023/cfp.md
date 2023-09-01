@@ -5,49 +5,44 @@ permalink: /2023/cfp/
 year: 2023
 ---
 
-**Submission deadline:** ~~Thursday, Sept 15, 2022 (16:59 PDT)~~ Thursday, Sept 22, 2022 (16:59 PDT)<br>
+**Submission deadline:** **Saturday, Sept 30, 2023 (Anywhere on Earth)**<br>
 
-**Submission site (OpenReview): [NeurIPS 2022 GLFrontiers Workshop](https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/GLFrontiers)** <br>
+**Submission site (OpenReview): [NeurIPS 2023 GLFrontiers Workshop](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GLFrontiers)** <br>
 
-**Author notification:** Friday, Oct 21, 2022
+**Author notification:** Oct 21, 2023
 
-**Camera ready deadline:** Friday, Nov 4, 2022 (16:59 PDT)
+**Camera ready deadline:** Dec 8, 2023 (Anywhere on Earth)
 
-**Workshop (in person):** Friday, Dec 2, 2022<br>
+**Workshop (in person):** Friday, Dec 15, 2023<br>
 
-**Updates:** 
-- Please use the following <a href="/files/neurips_glfrontiers_2022.sty" style="font-weight: bold;">NeurIPS GLFrontiers style file</a> for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{neurips_glfrontiers_2022}` in your main text file. Please **upload your camera ready version via making a revision at OpenReview**.
+<!-- **Updates:** 
+- Please use the following <a href="/files/neurips_glfrontiers_2023.sty" style="font-weight: bold;">NeurIPS GLFrontiers style file</a> for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{neurips_glfrontiers_2023}` in your main text file. Please **upload your camera ready version via making a revision at OpenReview**. -->
 
 
-The workshop will be held fully in person at the New Orleans Convention Center, as part of the [NeurIPS 2022 conference](https://nips.cc/Conferences/2022).
+The workshop will be held fully in person at the New Orleans Convention Center, as part of the [NeurIPS 2023 conference](https://nips.cc/Conferences/2023).
 We also plan to offer livestream for the event, and more details will come soon. 
 
 We welcome submissions regarding the new frontiers of graph learning, including but not limited to:
-- *Graphs in the wild:* Graph learning for datasets and applications without explicit relational structure (e.g., images, text, audios, code). Novel ways of modeling structured/unstructured data as graphs are highly welcomed.
+- **Foundation models for graphs and relational data**: Innovative ideas and perspectives in building generic foundation models for the ubiquitous graph-structured data and relational data. For example, there are recent attempts in building foundation models for molecule graphs, drug pairs and proteins. The foundation large language models also bring new opportunities for interacting with structural data with language interface.
 
-- *Graphs in ML:* Graph representations in general machine learning problems (e.g., neural architectures as graphs, relations among input data and learning tasks, graphs in large language models, etc.)
+- **Graph/Knowledge enhanced LLMs**: Ideas and proofs-of-concept in using structured knowledge to enhance the capability of LLMs in returning factual, private and/or domain-specific answers. Examples include retrieval augmented LLMs, Knowledge-enhanced LLMs and improved LLMs reasoning.
 
-- *New oasis:* Graph learning methods that are significantly different from the current paradigms (e.g., large-scale pre-trained models, multi-task models, super scalable algorithms, etc.)
+- **Graph AI for science**: Proofs-of-concept and perspectives in discovering graph and relational data in various scientific domains, and solving the problems with graph AI and machine learning. Recent works have achieved state-of-the-art using graph learning in sciences such as chemistry, biology, environmental science, physics and neuroscience.
 
-- *New capabilities:* Graph representation for knowledge discovery, optimization, causal inference, explainable ML, ML fairness, etc.
+- **Multimodal learning with Graphs**: Graphs can often be leveraged in the multimodal learning context to provide rich information and complement visual / text data. For example, recent works have utilized scene graph in combination with diffusion models for more faithful image generation. Multimodal graph learning is also demonstrated to be critical in learning gene embeddings for multi-omics and multi-tissue data. A joint model of graph and text further improves state-of-the-art in the domain of molecules, logical reasoning and QA.
 
-- *Novel applications:* Novel applications of graph learning in real-world industry and scientific domains. (e.g., graph learning for missing data imputation, program synthesis, etc.) 
-
-
+- **Trustworthy graph learning**: Trustworthiness of graph learning has been a rapidly developing field to ensure that the developed graph learning models can align with human values, and applicable in mission-critical use cases. We welcome various aspects of trustworthy graph representation learning, including adversarial robustness, explainable ML, ML fairness, causal inference, privacy, federated learning etc.
 
 
-We welcome both short research papers of up to 4 pages (excluding references and supplementary materials), and full-length research papers of up to ~~8~~ 9 pages (excluding references and supplementary materials). 
+
+We welcome both short research papers of up to 6 pages (excluding references and supplementary materials), and full-length research papers of up to 9 pages (excluding references and supplementary materials). 
 All accepted papers will be presented as posters. 
-**We will select 6 papers for short spotlight presentations and 2 papers for the outstanding paper awards with cash incentives.**
-**Speakers and DEI applicants with accepted papers are welcomed to apply for a limited amount of travel support** by [contact the workshop committee](mailto:glfrontiers@googlegroups.com).
-We sincerely appreciate the sponsorship from Google on our workshop.
+We plan to select 10 papers for short oral presentations and 1-2 papers for the outstanding paper award.
 
 
-All submissions must use the [NeurIPS template](https://nips.cc/Conferences/2022/PaperInformation/StyleFiles). We do not require the authors to include the checklist in the template. Submissions should be in `.pdf` format, and the review process is **double-blind**---therefore the papers should be appropriately anonymised. Previously published work (or under-review) is acceptable.
+All submissions must use the [NeurIPS template](https://nips.cc/Conferences/2023/PaperInformation/StyleFiles). We do not require the authors to include the checklist in the template. Submissions should be in `.pdf` format, and the review process is **double-blind**---therefore the papers should be appropriately anonymised. Previously published work (or under-review) is acceptable.
+
+For accepted papers, please use the following <a href="/files/neurips_glfrontiers_2023.sty" style="font-weight: bold;">NeurIPS GLFrontiers style file</a> for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{neurips_glfrontiers_2023}` in your main text file. Please upload your camera ready version via making a revision at OpenReview.
 
 Should you have any questions, please reach out to us via email:<br>
 [glfrontiers@googlegroups.com](mailto:glfrontiers@googlegroups.com)
-
-### Sponsorship
-*NeurIPS 2022 GLFrontiers Workshop is generously sponsored by Google.*
-<img src="/images/google.png?raw=true" alt="Google sponsorship" width="250" height="85">
