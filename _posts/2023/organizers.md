@@ -10,7 +10,7 @@ year: 2023
     <td> 
       <img src="/images/people/JiaxuanYou2.jpg?raw=true" alt="1" width=150px height=200px><br/>
       <a href="https://cs.stanford.edu/~jiaxuan/">Jiaxuan You</a><br/>
-      University of Illinois, Urbana-Champaign | Nvidia
+      University of Illinois, Urbana-Champaign | NVIDIA
     </td>
     <td> 
       <img src="/images/people/RexYing.jpg?raw=true" alt="1" width=150px height=200px><br/>

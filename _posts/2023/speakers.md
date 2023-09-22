@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tentative Speakers
+title: Invited Speakers
 permalink: /2023/speakers/
 year: 2023
 ---
@@ -33,6 +33,11 @@ year: 2023
       <img src="/images/people/YanqiZhou.jpg?raw=true" alt="1" width=150px height=195px><br/>
       <a href="https://zhouyanqi.github.io/">Yanqi Zhou</a><br/>
       Google Deepmind
+    </td>
+    <td> 
+      <img src="/images/people/Mohammad.jpg?raw=true" alt="1" width=150px height=195px><br/>
+      <a href="https://www.linkedin.com/in/shoeybi/">Mohammad Shoeybi</a><br/>
+      NVIDIA
     </td>
   </tr> 
 </table>

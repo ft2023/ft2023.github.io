@@ -6,10 +6,9 @@ year: 2023
 ---
 
 ### Program Chairs
-
 <table>
 <tr>
-    <td><strong>Jiaxuan You</strong><br><em>University of Illinois, Urbana Champaign | Nvidia</em></td>
+    <td><strong>Jiaxuan You</strong><br><em>University of Illinois, Urbana Champaign | NVIDIA</em></td>
     <td><strong>Rex Ying</strong><br><em>Yale University</em></td>
     <td><strong>Hanjun Dai</strong><br><em>Google Deepmind</em></td>
 </tr>
@@ -18,6 +17,10 @@ year: 2023
     <td><strong>Azalia Mirhoseini</strong><br><em>Anthropic | Stanford University</em></td>
     <td><strong>Smita Krishnaswamy</strong><br><em>Yale University</em></td>
 </tr>
+</table>
+
+### Workflow Chair
+<table>
 <tr>
     <td><strong>Chaoran Cheng</strong><br><em>University of Illinois, Urbana Champaign</em></td>
     <td></td>
