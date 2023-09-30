@@ -18,6 +18,11 @@ year: 2023
 <!-- **Updates:** 
 - Please use the following <a href="/files/neurips_glfrontiers_2023.sty" style="font-weight: bold;">NeurIPS GLFrontiers style file</a> for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{neurips_glfrontiers_2023}` in your main text file. Please **upload your camera ready version via making a revision at OpenReview**. -->
 
+**FAQ**
+- **GLFrontiers is a non-archival workshop**. If you have concurrent submissions to other venues, please feel free to submit to our workshop as well.
+- Suppose your submission will present at the NeurIPS main conference, we suggest the author **do not** submit to the workshop, as it leads to unnecessary redundancy at the venue. If your submission has been rejected by the NeurIPS main conference, *we welcome you to submit to our workshop*.
+- You may think of the full-length research paper as a standard conference submissions. Meanwhile, we highly welcome the 6-page short submissions as well; for example, if you have worked on exciting ideas but the paper is not fully finished (e.g., missing some baselines or experiments), or the idea itself does not take a full 9 pages to describe (e.g., a new training strategy, loss function, or initialization that works surprisingly well).
+
 
 The workshop will be held fully in person at the New Orleans Convention Center, as part of the [NeurIPS 2023 conference](https://nips.cc/Conferences/2023).
 We also plan to offer livestream for the event, and more details will come soon. 
@@ -44,9 +49,7 @@ All submissions must use the [NeurIPS template](https://nips.cc/Conferences/2023
 
 For accepted papers, please use the following <a href="/files/neurips_glfrontiers_2023.sty" style="font-weight: bold;">NeurIPS GLFrontiers style file</a> for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{neurips_glfrontiers_2023}` in your main text file. Please upload your camera ready version via making a revision at OpenReview.
 
-**FAQ**
-- Suppose your submission will present at the NeurIPS main conference, we suggest the author **do not** submit to the workshop, as it leads to unnecessary redundancy at the venue. If your submission has been rejected by the NeurIPS main conference, *we welcome you to submit to our workshop*.
-- You may think of the full-length research paper as a standard conference submissions. Meanwhile, we highly welcome the 6-page short submissions as well; for example, if you have worked on exciting ideas but the paper is not fully finished (e.g., missing some baselines or experiments), or the idea itself does not take a full 9 pages to describe (e.g., a new training strategy, loss function, or initialization that works surprisingly well).
+
 
 Should you have any questions, please reach out to us via email:<br>
 [glfrontiers@googlegroups.com](mailto:glfrontiers@googlegroups.com)
