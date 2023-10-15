@@ -8,7 +8,7 @@ year: 2023
 ### Program Chairs
 <table>
 <tr>
-    <td><strong>Jiaxuan You</strong><br><em>University of Illinois, Urbana Champaign | NVIDIA</em></td>
+    <td><strong>Jiaxuan You</strong><br><em>University of Illinois, Urbana Champaign</em></td>
     <td><strong>Rex Ying</strong><br><em>Yale University</em></td>
     <td><strong>Hanjun Dai</strong><br><em>Google Deepmind</em></td>
 </tr>
