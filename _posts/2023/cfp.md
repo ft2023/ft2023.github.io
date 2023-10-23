@@ -9,7 +9,7 @@ year: 2023
 
 **Submission site (OpenReview): [NeurIPS 2023 GLFrontiers Workshop](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GLFrontiers)** <br>
 
-**Author notification:** Oct 21, 2023
+**Author notification:** Oct 27, 2023 (Anywhere on Earth)
 
 **Camera ready deadline:** Dec 8, 2023 (Anywhere on Earth)
 
