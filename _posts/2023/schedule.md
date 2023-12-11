@@ -15,7 +15,18 @@ Specifically, the workshop will consist of the following sessions:
 - 9:00 AM - 9:30 AM: **Invited talk**: Mohammad Shoeybi
 - 9:30 AM - 10:00 AM: **Invited talk**: Yanqi Zhou
 - 10:00 AM - 10:30 AM: Coffee Break
-- 10:30 AM - 11:30 AM: **Contributed Talks from Submissions: Part 1**
+- 10:30 AM - 11:30 AM: **Contributed Talks from Submissions**
+  - *RL4CO: a Unified Reinforcement Learning for Combinatorial Optimization Library*. Presenter: Federico Berto
+  - *VN-EGNN: Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification*. Presenter: Florian Sestak
+  - *Maximally Expressive GNNs for Outerplanar Graphs*. Presenter: Fabian Jogl
+  - *Double Equivariance for Inductive Link Prediction for Both New Nodes and New Relation Types*. Presenter: Yangze Zhou/Jincheng Zhou
+  - *HoloNets: Spectral Convolutions do extend to Directed Graphs*. Presenter: Christian Koke
+  - *ResolvNet: A Graph Convolutional Network with multi-scale Consistency*. Presenter: Christian Koke
+  - *Networked Inequality: Preferential Attachment Bias in Graph Neural Network Link Prediction*. Presenter: Arjun Subramonian
+  - *Knowledge Graph Prompting for Multi-Document Question Answering*. Presenter: Yu Wang
+  - *ChatPathway: Conversational Large Language Models for Biology Pathway Detection*. Presenter: Yanjing Li/Shengchao Liu
+  - *Non-backtracking Graph Neural Networks*. Presenter: Seonghyun Park
+  - *Motif-aware Attribute Masking for Molecular Graph Pre-training*. Presenter: Gang Liu
 - 11:30 AM - 1:30 PM: **Poster session 1**
 - 12:00 PM - 1:00 PM: Lunch break
 - 1:30 PM - 2:00 PM: **Invited talk**: Jiawei Han

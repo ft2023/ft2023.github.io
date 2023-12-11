@@ -18,17 +18,12 @@ year: 2023
       University of Illinois, Urbana Champaign
     </td>
     <td> 
-      <img src="/images/people/HengJi.jpg?raw=true" alt="1" width=150px height=195px><br/>
-      <a href="http://blender.cs.illinois.edu/hengji.html">Heng Ji</a><br/>
-      University of Illinois, Urbana Champaign
+      <img src="/images/people/Manling.jpg?raw=true" alt="1" width=auto height=195px><br/>
+      <a href="https://limanling.github.io/">Manling Li</a><br/>
+      Northwestern University
     </td>
   </tr> 
   <tr>
-    <td> 
-      <img src="/images/people/Stephan.jpg?raw=true" alt="1" width=150px height=195px><br/>
-      <a href="https://www.cs.cit.tum.de/daml/guennemann/">Stephan Günnemann</a><br/>
-      Technical University of Munich
-    </td>
     <td> 
       <img src="/images/people/YanqiZhou.jpg?raw=true" alt="1" width=150px height=195px><br/>
       <a href="https://zhouyanqi.github.io/">Yanqi Zhou</a><br/>
