@@ -5,17 +5,17 @@ permalink: /2023/schedule/
 year: 2023
 ---
 
-The workshop will be held **fully in person** at the New Orleans Convention Center, as part of the [NeurIPS 2023 conference](https://nips.cc/Conferences/2023), on **Dec 15, 2023**.
+The workshop will be held **fully in person** at the New Orleans Convention Center, as part of the [NeurIPS 2023 conference](https://nips.cc/Conferences/2023), on **Dec 15, 2023**, in **Hall C2**. Check out the official NeurIPS workshop page for more information and live-stream for registerants **[here](https://neurips.cc/virtual/2023/workshop/66500)**.
 
 We aim to enlighten the attendees with state-of-the-art graph learning research, engage the attendees to ignite new ideas and discussions, and finally consolidate the ideas and findings into a synopsis that can benefit and guide the graph learning community as a whole.
 Specifically, the workshop will consist of the following sessions:
 
 - 8:15 AM - 8:45 AM: Poster Setup
-- 8:45 AM - 9:00 AM: Opening Remarks
-- 9:00 AM - 9:30 AM: **Invited talk**: Mohammad Shoeybi
-- 9:30 AM - 10:00 AM: **Invited talk**: Yanqi Zhou
+- 8:45 AM - 9:00 AM: Opening Remarks: Jiaxuan You
+- 9:00 AM - 9:30 AM: **Keynote talk**: Retrieval Augmentation for LLMs - Mohammad Shoeybi (NVIDIA)
+- 9:30 AM - 10:00 AM: **Keynote talk**: LLM Scaling: From Power Law to Sparsity - Yanqi Zhou (Google Deepmind)
 - 10:00 AM - 10:30 AM: Coffee Break
-- 10:30 AM - 11:30 AM: **Contributed Talks from Submissions**
+- 10:30 AM - 11:30 AM: **Contributed Talks** from Submissions and Announcing the **Best Paper Award**
   - *RL4CO: a Unified Reinforcement Learning for Combinatorial Optimization Library*. Presenter: Federico Berto
   - *VN-EGNN: Equivariant Graph Neural Networks with Virtual Nodes Enhance Protein Binding Site Identification*. Presenter: Florian Sestak
   - *Maximally Expressive GNNs for Outerplanar Graphs*. Presenter: Fabian Jogl
@@ -29,9 +29,9 @@ Specifically, the workshop will consist of the following sessions:
   - *Motif-aware Attribute Masking for Molecular Graph Pre-training*. Presenter: Gang Liu
 - 11:30 AM - 1:30 PM: **Poster session 1**
 - 12:00 PM - 1:00 PM: Lunch break
-- 1:30 PM - 2:00 PM: **Invited talk**: Jiawei Han
-- 2:00 PM - 2:30 PM: **Invited talk**: Marinka Zitnik
-- 2:30 PM - 3:00 PM: **Invited talk**: Manling Li
+- 1:30 PM - 2:00 PM: **Keynote talk**: Network Construction from Massive Text: Exploring the Power of Language Models - Jiawei Han (UIUC)
+- 2:00 PM - 2:30 PM: **Keynote talk**: Marinka Zitnik
+- 2:30 PM - 3:00 PM: **Keynote talk**: Towards Knowledge Foundation Models: Reasoning via Graph Schema Induction - Manling Li (Northwestern)
 - 3:00 PM - 3:30 PM: Coffee Break
 - 3:30 PM - 4:30 PM: **Panel Discussion: Graphs in the Era of Foundation Models**
 - 4:30 PM - 5:30 PM: **Poster session 2**
