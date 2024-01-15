@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Workshop Schedule
-permalink: /2024/schedule/
-year: 2024
+permalink: /2023/schedule/
+year: 2023
 ---
 
 The workshop will be held **fully in person** at the New Orleans Convention Center, as part of the [ICLR 2024 conference](https://iclr.cc/Conferences/2024), on **Dec 15, 2023**, in **Hall C2**. Check out the official NeurIPS workshop page for more information and live-stream for registerants **[here](https://neurips.cc/virtual/2023/workshop/66500)**.
