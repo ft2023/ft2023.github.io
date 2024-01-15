@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Organizers
-permalink: /2023/organizers/
-year: 2023
+permalink: /2024/organizers/
+year: 2024
 ---
 
 <table>
@@ -13,9 +13,9 @@ year: 2023
       University of Illinois, Urbana-Champaign
     </td>
     <td> 
-      <img src="/images/people/RexYing.jpg?raw=true" alt="1" width=150px height=200px><br/>
-      <a href="https://cs.stanford.edu/~rexy/">Rex Ying</a><br/>
-      Yale
+      <img src="/images/people/GeLiu.jpg?raw=true" alt="1" width=150px height=200px><br/>
+      <a href="https://people.csail.mit.edu/geliu/">Ge Liu</a><br/>
+      University of Illinois, Urbana-Champaign
     </td>
     <td> 
       <img src="/images/people/HanjunDai.jpg?raw=true" alt="1" width=150px height=200px><br/>
