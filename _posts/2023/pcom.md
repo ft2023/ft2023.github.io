@@ -14,7 +14,7 @@ year: 2024
 </tr>
 <tr>
     <td><strong>Song Han</strong><br><em>Massachusetts Institute of Technology</em></td>
-    <td><strong>Dawn Song</strong><br><em>Anthropic | University of California, Berkeley</em></td>
+    <td><strong>Dawn Song</strong><br><em>University of California, Berkeley</em></td>
 </tr>
 </table>
 
