@@ -20,15 +20,15 @@ year: 2024
 
 **FAQ**
 - **GLFrontiers is a non-archival workshop**. If you have concurrent submissions to other venues, please feel free to submit to our workshop as well.
-- Suppose your submission will present at the NeurIPS main conference, we suggest the author **do not** submit to the workshop, as it leads to unnecessary redundancy at the venue. If your submission has been rejected by the NeurIPS main conference, *we welcome you to submit to our workshop*.
-- You may think of the full-length research paper as a standard conference submissions. Meanwhile, we highly welcome the 6-page short submissions as well; for example, if you have worked on exciting ideas but the paper is not fully finished (e.g., missing some baselines or experiments), or the idea itself does not take a full 9 pages to describe (e.g., a new training strategy, loss function, or initialization that works surprisingly well).
+- Suppose your submission will present at the ICLR main conference, we suggest the author **do not** submit to the workshop, as it leads to unnecessary redundancy at the venue. If your submission has been rejected by the ICLR main conference, *we welcome you to submit to our workshop*.
+- You may think of the full-length research paper as a standard conference submissions. Meanwhile, we highly welcome the 7-page short submissions as well; for example, if you have worked on exciting ideas but the paper is not fully finished (e.g., missing some baselines or experiments), or the idea itself does not take a full 9 pages to describe (e.g., a new training strategy, loss function, or initialization that works surprisingly well).
 
 
-The workshop will be held fully in person at the New Orleans Convention Center, as part of the [NeurIPS 2023 conference](https://nips.cc/Conferences/2023).
+The workshop will be held fully in person at the Vienna, Austria, as part of the [ICLR 2024 conference](https://iclr.cc/Conferences/2024).
 We also plan to offer livestream for the event, and more details will come soon. 
 
-We welcome submissions regarding the new frontiers of graph learning, including but not limited to:
-- **Foundation models for graphs and relational data**: Innovative ideas and perspectives in building generic foundation models for the ubiquitous graph-structured data and relational data. For example, there are recent attempts in building foundation models for molecule graphs, drug pairs and proteins. The foundation large language models also bring new opportunities for interacting with structural data with language interface.
+This workshop aims to become a melting pot for ideas, discussions, and debates regarding our proximity to AGI. We invite submissions on a range of topics including, but not limited to:
+- **Frontiers of AGI research**: Innovative ideas and perspectives in building generic foundation models for the ubiquitous graph-structured data and relational data. For example, there are recent attempts in building foundation models for molecule graphs, drug pairs and proteins. The foundation large language models also bring new opportunities for interacting with structural data with language interface.
 
 - **Graph/Knowledge enhanced LLMs**: Ideas and proofs-of-concept in using structured knowledge to enhance the capability of LLMs in returning factual, private and/or domain-specific answers. Examples include retrieval augmented LLMs, Knowledge-enhanced LLMs and improved LLMs reasoning.
 
