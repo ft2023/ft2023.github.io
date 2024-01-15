@@ -9,13 +9,12 @@ year: 2024
 <table>
 <tr>
     <td><strong>Jiaxuan You</strong><br><em>University of Illinois, Urbana Champaign</em></td>
-    <td><strong>Rex Ying</strong><br><em>Yale University</em></td>
-    <td><strong>Hanjun Dai</strong><br><em>Google Deepmind</em></td>
+    <td><strong>Ge Liu</strong><br><em>University of Illinois, Urbana Champaign</em></td>
+    <td><strong>Yunzhu Li </strong><br><em>University of Illinois, Urbana Champaign</em></td>
 </tr>
 <tr>
-    <td><strong>Ge Liu</strong><br><em>University of Illinois, Urbana Champaign</em></td>
-    <td><strong>Azalia Mirhoseini</strong><br><em>Anthropic | Stanford University</em></td>
-    <td><strong>Smita Krishnaswamy</strong><br><em>Yale University</em></td>
+    <td><strong>Song Han</strong><br><em>Massachusetts Institute of Technology</em></td>
+    <td><strong>Dawn Song</strong><br><em>Anthropic | University of California, Berkeley</em></td>
 </tr>
 </table>
 
