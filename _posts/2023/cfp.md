@@ -28,28 +28,29 @@ The workshop will be held fully in person at the Vienna, Austria, as part of the
 We also plan to offer livestream for the event, and more details will come soon. 
 
 This workshop aims to become a melting pot for ideas, discussions, and debates regarding our proximity to AGI. We invite submissions on a range of topics including, but not limited to:
-- **Frontiers of AGI research**: Innovative ideas and perspectives in building generic foundation models for the ubiquitous graph-structured data and relational data. For example, there are recent attempts in building foundation models for molecule graphs, drug pairs and proteins. The foundation large language models also bring new opportunities for interacting with structural data with language interface.
+- **Frontiers of AGI research**: examples include AI agents, embodied AI, retrieval-based and tool- augmented LLMs, knowledge-enhanced AI, and multi-agent AI.
 
-- **Graph/Knowledge enhanced LLMs**: Ideas and proofs-of-concept in using structured knowledge to enhance the capability of LLMs in returning factual, private and/or domain-specific answers. Examples include retrieval augmented LLMs, Knowledge-enhanced LLMs and improved LLMs reasoning.
+- **Classic AGI Attempts as Inspiration**: Delving into historical methods such as expert systems, symbolic AI, Type I and Type II reasoning for insights that can guide LLM research further.
 
-- **Graph AI for science**: Proofs-of-concept and perspectives in discovering graph and relational data in various scientific domains, and solving the problems with graph AI and machine learning. Recent works have achieved state-of-the-art using graph learning in sciences such as chemistry, biology, environmental science, physics and neuroscience.
+- **Interdisciplinary Insights for AGI**: Drawing parallels from fields like psychology, sociology, and neuroscience to inspire and inform the development of LLMs towards AGI.
 
-- **Multimodal learning with Graphs**: Graphs can often be leveraged in the multimodal learning context to provide rich information and complement visual / text data. For example, recent works have utilized scene graph in combination with diffusion models for more faithful image generation. Multimodal graph learning is also demonstrated to be critical in learning gene embeddings for multi-omics and multi-tissue data. A joint model of graph and text further improves state-of-the-art in the domain of molecules, logical reasoning and QA.
+- **Fundamental Limitations of LLMs**: Analyzing the intrinsic capabilities or lack thereof in LLMs that might impede their progression to AGI. This includes discussions on reasoning, planning, and more.
 
-- **Trustworthy graph learning**: Trustworthiness of graph learning has been a rapidly developing field to ensure that the developed graph learning models can align with human values, and applicable in mission-critical use cases. We welcome various aspects of trustworthy graph representation learning, including adversarial robustness, explainable ML, ML fairness, causal inference, privacy, federated learning etc.
+- **Practical Limitations of LLMs and Foundation models**: Addressing external challenges like system constraints, computational costs, data acquisition barriers, and privacy concerns.
+
+- **Safety, Ethics, and Regulation in AGI Development**: Exploring the complexity of moral, safety, and regulatory concerns that will shape AGI’s evolution.
+
+- **AGI’s Economic and Societal Impacts**: Probing the potential changes AGI might initiate into our societies, economies, and daily lives.
 
 
 
-We welcome both short research papers of up to 6 pages (excluding references and supplementary materials), and full-length research papers of up to 9 pages (excluding references and supplementary materials). 
+We welcome both short research papers of up to 7 pages (excluding references and supplementary materials), and full-length research papers of up to 9 pages (excluding references and supplementary materials). 
 All accepted papers will be presented as posters. 
 We plan to select 10 papers for short oral presentations and 1-2 papers for the outstanding paper award.
 
 
-All submissions must use the [NeurIPS template](https://nips.cc/Conferences/2023/PaperInformation/StyleFiles). We do not require the authors to include the checklist in the template. Submissions should be in `.pdf` format, and the review process is **double-blind**---therefore the papers should be appropriately anonymised. Previously published work (or under-review) is acceptable.
-
-For accepted papers, please use the following <a href="/files/neurips_glfrontiers_2023.sty" style="font-weight: bold;">NeurIPS GLFrontiers style file</a> for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{neurips_glfrontiers_2023}` in your main text file. Please upload your camera ready version via making a revision at OpenReview.
-
+All submissions must use the [ICLR template](https://github.com/ICLR/Master-Template/raw/master/iclr2024.zip). We do not require the authors to include the checklist in the template. Submissions should be in `.pdf` format, and the review process is **double-blind**---therefore the papers should be appropriately anonymised. Previously published work (or under-review) is acceptable.
 
 
 Should you have any questions, please reach out to us via email:<br>
-[glfrontiers@googlegroups.com](mailto:glfrontiers@googlegroups.com)
+[agiworkshop@googlegroups.com](mailto:agiworkshop@googlegroups.com)
