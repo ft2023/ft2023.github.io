@@ -22,8 +22,6 @@ year: 2024
 <table>
 <tr>
     <td><strong>Tao Feng</strong><br><em>University of Illinois, Urbana Champaign</em></td>
-    <td></td>
-    <td></td>
 </tr>
 </table>
 
