@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Organizers
-permalink: /2024/organizers/
-year: 2024
+permalink: /2023/organizers/
+year: 2023
 ---
 
 <table>
