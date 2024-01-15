@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Invited Speakers
-permalink: /2024/speakers/
-year: 2024
+permalink: /2023/speakers/
+year: 2023
 ---
 
 <table>
