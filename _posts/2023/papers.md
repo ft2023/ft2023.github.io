@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Accepted Papers
-permalink: /2024/papers/
-year: 2024
+permalink: /2023/papers/
+year: 2023
 ---
 <style>
 td {
