@@ -7,7 +7,7 @@ year: 2024
 
 **Submission deadline:** **Saturday, Sept 30, 2023 (Anywhere on Earth)**<br>
 
-**Submission site (OpenReview): [NeurIPS 2023 GLFrontiers Workshop](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GLFrontiers)** <br>
+**Submission site (OpenReview): [ICLR 2024 AGI Workshop](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GLFrontiers)** <br>
 
 **Author notification:** Oct 27, 2023 (Anywhere on Earth)
 
@@ -19,7 +19,7 @@ year: 2024
 - Please use the following <a href="/files/neurips_glfrontiers_2023.sty" style="font-weight: bold;">NeurIPS GLFrontiers style file</a> for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{neurips_glfrontiers_2023}` in your main text file. Please **upload your camera ready version via making a revision at OpenReview**. -->
 
 **FAQ**
-- **GLFrontiers is a non-archival workshop**. If you have concurrent submissions to other venues, please feel free to submit to our workshop as well.
+- **AGIworkshop is a non-archival workshop**. If you have concurrent submissions to other venues, please feel free to submit to our workshop as well.
 - Suppose your submission will present at the ICLR main conference, we suggest the author **do not** submit to the workshop, as it leads to unnecessary redundancy at the venue. If your submission has been rejected by the ICLR main conference, *we welcome you to submit to our workshop*.
 - You may think of the full-length research paper as a standard conference submissions. Meanwhile, we highly welcome the 7-page short submissions as well; for example, if you have worked on exciting ideas but the paper is not fully finished (e.g., missing some baselines or experiments), or the idea itself does not take a full 9 pages to describe (e.g., a new training strategy, loss function, or initialization that works surprisingly well).
 
