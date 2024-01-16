@@ -25,7 +25,7 @@ year: 2024
   </tr> 
   <tr>
     <td> 
-      <img src="/images/people/MichaelBernstein.jpg?raw=true" alt="1" width=150px height=200px><br/>
+      <img src="/images/people/MichaelBernstein.jpg?raw=true" alt="1" width=100px height=100px><br/>
       <a href="https://profiles.stanford.edu/michael-bernstein">Michael Bernstein</a><br/>
       Stanford University
     </td>
