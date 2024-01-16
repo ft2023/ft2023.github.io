@@ -8,12 +8,12 @@ year: 2024
 <table>
   <tr>
     <td> 
-      <img src="/images/people/YoshuaBengio.jpg?raw=true" alt="1" width=150px height=195px><br/>
+      <img src="/images/people/YoshuaBengio.jpg?raw=true" alt="1" width=auto height=195px><br/>
       <a href="https://yoshuabengio.org">Yoshua Bengio</a><br/>
       MILA
     </td>
     <td> 
-      <img src="/images/people/YejinChoi.jpg?raw=true" alt="1" width=150px height=195px><br/>
+      <img src="/images/people/YejinChoi.jpg?raw=true" alt="1" width=auto height=195px><br/>
       <a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a><br/>
       University of Washington
     </td>
@@ -25,7 +25,7 @@ year: 2024
   </tr> 
   <tr>
     <td> 
-      <img src="/images/people/MichaelBernstein.jpg?raw=true" alt="1" width=150px height=195px><br/>
+      <img src="/images/people/MichaelBernstein.jpg?raw=true" alt="1" width=auto height=195px><br/>
       <a href="https://profiles.stanford.edu/michael-bernstein">Michael Bernstein</a><br/>
       Stanford University
     </td>
