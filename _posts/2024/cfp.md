@@ -5,9 +5,9 @@ permalink: /2024/cfp/
 year: 2024
 ---
 
-**Submission deadline:** **Saturday, Sept 30, 2023 (Anywhere on Earth)**<br>
+**Submission deadline:** **Friday, February 9, 2024 (Anywhere on Earth).**<br>
 
-**Submission site (OpenReview): [ICLR 2024 AGI Workshop](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GLFrontiers)** <br>
+**Submission site (OpenReview): [ICLR 2024 AGI Workshop](https://openreview.net/forum?id=W6Dh-WA_eA)** <br>
 
 **Author notification:** Oct 27, 2023 (Anywhere on Earth)
 
