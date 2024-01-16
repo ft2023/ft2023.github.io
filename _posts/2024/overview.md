@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Overview
-permalink: /2023/overview/
-year: 2023
+permalink: /2024/overview/
+year: 2024
 ---
 
 ### Historical Context and Importance of AGI
