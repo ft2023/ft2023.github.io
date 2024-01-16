@@ -5,15 +5,15 @@ permalink: /2024/cfp/
 year: 2024
 ---
 
-**Submission deadline:** **Friday, February 9, 2024 (Anywhere on Earth).**<br>
+**Submission deadline:** **February 9, 2024 (Anywhere on Earth).**<br>
 
 **Submission site (OpenReview): [ICLR 2024 AGI Workshop](https://openreview.net/forum?id=W6Dh-WA_eA)** <br>
 
-**Author notification:** Oct 27, 2023 (Anywhere on Earth)
+**Author notification:** March 3, 2024 (Anywhere on Earth)
 
-**Camera ready deadline:** Dec 8, 2023 (Anywhere on Earth)
+**Camera ready deadline:** May 1, 2024 (Anywhere on Earth)
 
-**Workshop (in person):** Friday, Dec 15, 2023<br>
+**Workshop (in person):** May 11, 2024 <br>
 
 <!-- **Updates:** 
 - Please use the following <a href="/files/neurips_glfrontiers_2023.sty" style="font-weight: bold;">NeurIPS GLFrontiers style file</a> for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{neurips_glfrontiers_2023}` in your main text file. Please **upload your camera ready version via making a revision at OpenReview**. -->
