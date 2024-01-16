@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Program Committee
-permalink: /2023/pcom/
-year: 2023
+permalink: /2024/pcom/
+year: 2024
 ---
 
 ### Program Chairs
