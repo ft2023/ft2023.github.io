@@ -13,30 +13,35 @@ year: 2023
       University of Illinois, Urbana-Champaign
     </td>
     <td> 
+      <img src="/images/people/RexYing.jpg?raw=true" alt="1" width=150px height=200px><br/>
+      <a href="https://cs.stanford.edu/~rexy/">Rex Ying</a><br/>
+      Yale
+    </td>
+    <td> 
+      <img src="/images/people/HanjunDai.jpg?raw=true" alt="1" width=150px height=200px><br/>
+      <a href="https://hanjun-dai.github.io/">Hanjun Dai</a><br/>
+      Google Deepmind
+    </td>
+  </tr>
+  <tr>
+    <td> 
       <img src="/images/people/GeLiu.jpg?raw=true" alt="1" width=150px height=200px><br/>
       <a href="https://people.csail.mit.edu/geliu/">Ge Liu</a><br/>
       University of Illinois, Urbana-Champaign
     </td>
     <td> 
-      <img src="/images/people/YunzhuLi.jpg?raw=true" alt="1" width=150px height=200px><br/>
-      <a href="https://yunzhuli.github.io">Yunzhu Li</a><br/>
-      University of Illinois, Urbana-Champaign
-    </td>
-  </tr>
-  <tr>
-    <td> 
-      <img src="/images/people/SongHan.jpg?raw=true" alt="1" width=150px height=200px><br/>
-      <a href="https://hanlab.mit.edu">Song Han</a><br/>
-      Massachusetts Institute of Technology
+      <img src="/images/people/Azalia.jpg?raw=true" alt="1" width=150px height=200px><br/>
+      <a href="http://azaliamirhoseini.com/">Azalia Mirhoseini</a><br/>
+      Anthropic | Stanford University
     </td>
     <td> 
-      <img src="/images/people/DawnSong.jpg?raw=true" alt="1" width=150px height=200px><br/>
-      <a href="https://dawnsong.io">Dawn Song</a><br/>
-      University of California, Berkeley
+      <img src="/images/people/Smita.jpg?raw=true" alt="1" width=150px height=200px><br/>
+      <a href="https://medicine.yale.edu/profile/smita-krishnaswamy/">Smita Krishnaswamy</a><br/>
+      Yale
     </td>
   </tr> 
 </table>
 
 
 Should you have any questions, please reach out to us via email:<br>
-[agiworkshop@googlegroups.com](mailto:agiworkshop@googlegroups.com)
+[glfrontiers@googlegroups.com](mailto:glfrontiers@googlegroups.com)

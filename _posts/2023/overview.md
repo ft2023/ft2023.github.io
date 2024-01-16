@@ -5,32 +5,29 @@ permalink: /2023/overview/
 year: 2023
 ---
 
-### Historical Context and Importance of AGI
-Building artificial general intelligence (AGI) has been a defining challenge in the realm of AI research. Since the dawn of the computational era, the aspiration to achieve AGI has profoundly shaped the vision and mission of AI researchers. Broadly defined, AGI refers to machines that can perform any intellectual task that a human being can do. Over the decades, we have witnessed substantial progress in narrow AI, where systems excel in specific tasks. Still, the quintessential goal of creating an AGI, a system with broad and flexible cognitive abilities, remains elusive.
+Graph learning has grown into an established sub-field of machine learning in recent years. Researchers have been focusing on developing novel model architectures, theoretical understandings, scalable algorithms and systems, and successful applications across industry and science regarding graph learning. With the success of the New Frontiers in Graph Learning (GLFrontiers) Workshop in NeurIPS 2022, we hope to continue to promote the exchange of discussions and ideas regarding the future of graph learning in NeurIPS 2023.
 
-### Recent Advances in AI: Towards AGI?
-The recent advances in large language models (LLMs) like GPT-4 and LLama-2, present an intriguing twist in this narrative. These models have displayed remarkable capabilities, sometimes on par or even surpassing human abilities in specific domains, hinting at a form of the Turing test being passed. Furthermore, the scope of these models is no longer limited to just natural language processing (NLP). We’re seeing promising signs of these models branching out, such as AI agents utilizing tools, retrieval from external database, displaying reasoning abilities, competing complex tasks via writing code, multimodal learning with text and images, etc.
+### Challenges
+Despite the success of graph learning in various applications, the recent machine learning research trends, especially the research towards foundation models and large language models, have posed challenges for the graph learning field. For example, regarding the model architecture, Transformer-based models have been shown to be superior to graph neural networks in certain small graph learning benchmarks. In terms of usability, with language as a generic user interface, it is still a research frontier to explore whether natural language can also interact with ubiquitous graph-structured data and whether it is feasible to build generic foundation models for graphs. Lastly, while graph learning has achieved recent exciting results in molecule and protein design, exploring how graph learning can accelerate scientific discoveries in other disciplines remains an open question.
 
-### The Road Ahead: Challenges and Limitations
-However, as promising as these advances are, the gap between current LLMs and true AGI is still significant. Notable limitations include diminishing returns and potential constraints to the scaling law, lacking robust reasoning capabilities, hallucination and factual inaccuracies, lack of commonsense reasoning capabilities, and many others. Furthermore, as we move closer to AGI, it becomes paramount to address the critical concerns of safety, ethics, and regulatory implications, for example, aligning AGI’s values with humanity’s diverse set of beliefs, navigating the moral dilemmas and ensuring AGI can make ethical decisions, and addressing security risks of generative AI.
+### Goal
+The primary goal of this workshop is to expand the impact of graph learning beyond the current boundaries. We believe that graph, or relation data, is a universal language that can be used to describe the complex world. Ultimately, we hope graph learning will become a generic tool for learning and understanding any type of (structured) data. In GLFrontiers 2023, we specifically aim to discuss the future of graph learning in the era of foundation models and envision how graph learning can contribute to scientific discoveries.
 
-### Workshop Scope and Topics
-This workshop aims to become a melting pot for ideas, discussions, and debates regarding our proximity to AGI. We invite submissions on a range of topics including, but not limited to:
-- **Frontiers of AGI research**: examples include AI agents, embodied AI, retrieval-based and tool- augmented LLMs, knowledge-enhanced AI, and multi-agent AI.
 
-- **Classic AGI Attempts as Inspiration**: Delving into historical methods such as expert systems, symbolic AI, Type I and Type II reasoning for insights that can guide LLM research further.
+### Scope and Topics
+The workshop will include submissions, talks, and poster sessions on a wide variety of challenges, perspectives, and solutions regarding the new frontiers of graph learning, including but not limited to:
+- **Foundation models for graphs and relational data**: Innovative ideas and perspectives in building generic foundation models for the ubiquitous graph-structured data and relational data. For example, there are recent attempts in building foundation models for molecule graphs, drug pairs and proteins. The foundation large language models also bring new opportunities for interacting with structural data with language interface.
 
-- **Interdisciplinary Insights for AGI**: Drawing parallels from fields like psychology, sociology, and neuroscience to inspire and inform the development of LLMs towards AGI.
+- **Graph/Knowledge enhanced LLMs**: Ideas and proofs-of-concept in using structured knowledge to enhance the capability of LLMs in returning factual, private and/or domain-specific answers. Examples include retrieval augmented LLMs, Knowledge-enhanced LLMs and improved LLMs reasoning.
 
-- **Fundamental Limitations of LLMs**: Analyzing the intrinsic capabilities or lack thereof in LLMs that might impede their progression to AGI. This includes discussions on reasoning, planning, and more.
+- **Graph AI for science**: Proofs-of-concept and perspectives in discovering graph and relational data in various scientific domains, and solving the problems with graph AI and machine learning. Recent works have achieved state-of-the-art using graph learning in sciences such as chemistry, biology, environmental science, physics and neuroscience.
 
-- **Practical Limitations of LLMs and Foundation models**: Addressing external challenges like system constraints, computational costs, data acquisition barriers, and privacy concerns.
+- **Multimodal learning with Graphs**: Graphs can often be leveraged in the multimodal learning context to provide rich information and complement visual / text data. For example, recent works have utilized scene graph in combination with diffusion models for more faithful image generation. Multimodal graph learning is also demonstrated to be critical in learning gene embeddings for multi-omics and multi-tissue data. A joint model of graph and text further improves state-of-the-art in the domain of molecules, logical reasoning and QA.
 
-- **Safety, Ethics, and Regulation in AGI Development**: Exploring the complexity of moral, safety, and regulatory concerns that will shape AGI’s evolution.
+- **Trustworthy graph learning**: Trustworthiness of graph learning has been a rapidly developing field to ensure that the developed graph learning models can align with human values, and applicable in mission-critical use cases. We welcome various aspects of trustworthy graph representation learning, including adversarial robustness, explainable ML, ML fairness, causal inference, privacy, federated learning etc.
 
-- **AGI’s Economic and Societal Impacts**: Probing the potential changes AGI might initiate into our societies, economies, and daily lives.
 
 Should you have any questions, please reach out to us via email:<br>
-[agiworkshop@googlegroups.com](mailto:agiworkshop@googlegroups.com)
+[glfrontiers@googlegroups.com](mailto:glfrontiers@googlegroups.com)
 
 

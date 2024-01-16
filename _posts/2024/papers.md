@@ -11,5 +11,5 @@ td {
 }
 </style>
 
-The accepted papers and orals can be found [here](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/GLFrontiers#tab-accept-oral).
+To be announced.
 

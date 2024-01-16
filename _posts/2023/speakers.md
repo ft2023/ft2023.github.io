@@ -8,30 +8,35 @@ year: 2023
 <table>
   <tr>
     <td> 
-      <img src="/images/people/YoshuaBengio.jpg?raw=true" alt="1" width=150px height=195px><br/>
-      <a href="https://yoshuabengio.org">Yoshua Bengio</a><br/>
-      MILA
+      <img src="/images/people/MarinkaZitnik.jpg?raw=true" alt="1" width=150px height=195px><br/>
+      <a href="">Marinka Zitnik</a><br/>
+      Harvard University
     </td>
     <td> 
-      <img src="/images/people/YejinChoi.jpg?raw=true" alt="1" width=150px height=195px><br/>
-      <a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a><br/>
-      University of Washington
+      <img src="/images/people/JiaweiHan.jpg?raw=true" alt="1" width=150px height=195px><br/>
+      <a href="http://hanj.cs.illinois.edu/">Jiawei Han</a><br/>
+      University of Illinois, Urbana Champaign
     </td>
     <td> 
-      <img src="/images/people/JoshuaTenenbaum.jpg?raw=true" alt="1" width=auto height=195px><br/>
-      <a href="https://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a><br/>
-      MIT
+      <img src="/images/people/Manling.jpg?raw=true" alt="1" width=auto height=195px><br/>
+      <a href="https://limanling.github.io/">Manling Li</a><br/>
+      Northwestern University
     </td>
   </tr> 
   <tr>
     <td> 
-      <img src="/images/people/MichaelBernstein.jpg?raw=true" alt="1" width=150px height=195px><br/>
-      <a href="https://profiles.stanford.edu/michael-bernstein">Michael Bernstein</a><br/>
-      Stanford University
+      <img src="/images/people/YanqiZhou.jpg?raw=true" alt="1" width=150px height=195px><br/>
+      <a href="https://zhouyanqi.github.io/">Yanqi Zhou</a><br/>
+      Google Deepmind
+    </td>
+    <td> 
+      <img src="/images/people/Mohammad.jpg?raw=true" alt="1" width=150px height=195px><br/>
+      <a href="https://www.linkedin.com/in/shoeybi/">Mohammad Shoeybi</a><br/>
+      NVIDIA
     </td>
   </tr> 
 </table>
 
 
 Should you have any questions, please reach out to us via email:<br>
-[agiworkshop@googlegroups.com](mailto:agiworkshop@googlegroups.com)
+[glfrontiers@googlegroups.com](mailto:glfrontiers@googlegroups.com)
