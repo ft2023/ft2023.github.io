@@ -22,14 +22,12 @@ year: 2024
       <a href="https://web.mit.edu/cocosci/josh.html">Joshua Tenenbaum</a><br/>
       MIT
     </td>
-  </tr> 
-  <tr>
     <td> 
-      <img src="/images/people/MichaelBernstein.jpg?raw=true" alt="1" width=100px height=100px><br/>
+      <img src="/images/people/MichaelBernstein.jpg?raw=true" alt="1" width=150px height=200px><br/>
       <a href="https://profiles.stanford.edu/michael-bernstein">Michael Bernstein</a><br/>
       Stanford University
     </td>
-  </tr> 
+  </tr>  
 </table>
 
 
