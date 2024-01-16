@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Call for Papers
-permalink: /2023/cfp/
-year: 2023
+permalink: /2024/cfp/
+year: 2024
 ---
 
 **Submission deadline:** **Saturday, Sept 30, 2023 (Anywhere on Earth)**<br>
