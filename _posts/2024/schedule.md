@@ -5,7 +5,7 @@ permalink: /2024/schedule/
 year: 2024
 ---
 
-The workshop will be held **fully in person** at the New Orleans Convention Center, as part of the [ICLR 2024 conference](https://iclr.cc/Conferences/2024), on **Dec 15, 2023**, in **Hall C2**. Check out the official NeurIPS workshop page for more information and live-stream for registerants **[here](https://neurips.cc/virtual/2023/workshop/66500)**.
+The workshop will be held **fully in person** at Vienna, Austria, as part of the [ICLR 2024 conference](https://iclr.cc/Conferences/2024), on **May 11, 2024**. Check out the official ICLR workshop page for more information and live-stream for registerants **[here](https://iclr.cc/Conferences/2024/CallForWorkshops)**.
 
 We aim to showcase the latest in AGI research, delve into breakthroughs from LLMs and foundation models, and assess the current gaps and challenges towards AGI. With insights from renowned AI experts, the workshop seeks to spark new ideas, foster discussions, and compile a comprehensive summary to guide the broader AI and ML community. We have confirmed with many renowned researchers with interest in giving the keynote talks.
 
