@@ -46,7 +46,7 @@
         {% assign permalink = page.permalink | default: '/2022/overview' |  split: '/' %}
         <ul class="dropdown-menu">
           {% for year in site.all_years %}
-          <li><a class="dropdown-item" href="/{{ year }}/{{ permalink[2] }}">NeurIPS {{ year }}</a></li>
+          <li><a class="dropdown-item" href="/{{ year }}/{{ permalink[2] }}">ICLR {{ year }}</a></li>
           {% endfor %}
         </ul>
       </div>
