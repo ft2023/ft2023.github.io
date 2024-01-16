@@ -18,19 +18,19 @@ year: 2024
       University of Illinois, Urbana-Champaign
     </td>
     <td> 
-      <img src="/images/people/YunzhuLi.jpg?raw=true" alt="1" width=150px height=200px><br/>
+      <img src="/images/people/YunzhuLi.jpg?raw=true" alt="1" width=auto height=200px><br/>
       <a href="https://yunzhuli.github.io">Yunzhu Li</a><br/>
       University of Illinois, Urbana-Champaign
     </td>
   </tr>
   <tr>
     <td> 
-      <img src="/images/people/SongHan.jpg?raw=true" alt="1" width=150px height=200px><br/>
+      <img src="/images/people/SongHan.jpg?raw=true" alt="1" width=auto height=200px><br/>
       <a href="https://hanlab.mit.edu">Song Han</a><br/>
       Massachusetts Institute of Technology
     </td>
     <td> 
-      <img src="/images/people/DawnSong.jpg?raw=true" alt="1" width=150px height=200px><br/>
+      <img src="/images/people/DawnSong.jpg?raw=true" alt="1" width=auto height=200px><br/>
       <a href="https://dawnsong.io">Dawn Song</a><br/>
       University of California, Berkeley
     </td>
